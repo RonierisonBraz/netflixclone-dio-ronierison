@@ -10,7 +10,7 @@
 /*elementos base*/
 body{
  background: var(--preto);
- font-family: 'Times New Roman', Times, serif;
+ font-family: 'Arial', Times, serif;
  color: white;
 }
 header .container{
@@ -93,5 +93,7 @@ header .logo{
      display: block;
 
     }
-    /*parei na aula 7*/
     
+    .carrosel-filmes{
+      margin-top: 5px;
+    }
